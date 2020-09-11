@@ -17,4 +17,4 @@
 <p> Marcus Luttrell served in the US Navy for eight years. After his time in the Navy and the events that took place in Operation Red Wing, Marcus retired and has become a great public speaker and motivator.</p>
 
 
-<a href="https://en.wikipedia.org/wiki/Marcus_Luttrell">learn more</a>
+<a href="https://en.wikipedia.org/wiki/Marcus_Luttrell">Learn More</a>
