@@ -14,3 +14,5 @@
     <li> Mental toughness: Marcus was able to keep his mind sharp and not let himself give up although he has many life threatening injuries and was near death.</li>
  </ul>
   
+<p> Marcus Luttrell served in the US Navy for eight years. After his time in the Navy and the events that took place in Operation Red Wing, Marcus retired and has become a great public speaker and motivator.</p>
+
