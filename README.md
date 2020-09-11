@@ -1,4 +1,4 @@
 <h1> Marcus Luttrell</h2>
 
-<img src="https://marcusluttrell.com/wp-content/uploads/2019/08/3c03b08f78cfacecd64f2bc071a3ac17-operation-red-wings-marcus-luttrell-300x271.jpg? width=300" alt="Marcus Luttrell"
+<img src="https://i.pinimg.com/236x/21/d0/3f/21d03f654325f3a930d30a8db4901f15--marcus-luttrell-us-navy-seals.jpg">
 <p> Marcus Luttrell was a part of Operation Red Wing the mission that the recently released movie "Lone Survivor" was based on.</p>
